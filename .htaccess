@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # It might be required so set RewriteBase on some servers,
+    # especially when a generic Internal Server Error is thrown.
+    # RewriteBase /public
+    RewriteCond %{REQUEST_URI} !^/install\.php
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>

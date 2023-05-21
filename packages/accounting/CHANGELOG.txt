@@ -1,0 +1,18 @@
+Crypto / Stock Trading Competitions - Accounting add-on
+-------------------------------------------------------
+
+CHANGES HISTORY
+---------------
+v1.2.1 - 09 Apr 2019
+Bug fix: create user account if it doesn't exist.
+
+v1.2.0 - 26 Feb 2019
+- Bots implemented.
+
+v1.1.0 - 15 Nov 2018
+- Coinpayments.net integration (crypto deposits).
+- Cryptocurrency withdrawal method added.
+- Bug fix: Async payments (such as SOFORT) via Stripe are not automatically marked as completed.
+
+v1.0.0 - 16 Oct 2018
+- Initial release.

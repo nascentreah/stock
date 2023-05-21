@@ -1,0 +1,32 @@
+[
+  {
+    "code": "NASDAQ",
+    "name": "NASDAQ",
+    "trading_start": "09:30:00",
+    "trading_end": "16:00:00",
+    "timezone_code": "EST",
+    "timezone_name": "US/Eastern",
+    "url": "https://www.nasdaq.com",
+    "country_code": "us"
+  },
+  {
+    "code": "NYSE",
+    "name": "New York Stock Exchange",
+    "trading_start": "09:30:00",
+    "trading_end": "16:30:00",
+    "timezone_code": "EST",
+    "timezone_name": "US/Eastern",
+    "url": "https://www.nasdaq.com",
+    "country_code": "us"
+  },
+  {
+    "code": "AMEX",
+    "name": "American Stock Exchange",
+    "trading_start": "09:30:00",
+    "trading_end": "16:30:00",
+    "timezone_code": "EST",
+    "timezone_name": "US/Eastern",
+    "url": "https://www.nasdaq.com",
+    "country_code": "us"
+  }
+]

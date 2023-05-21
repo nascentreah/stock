@@ -1,0 +1,16 @@
+Crypto / Stock Trading Competitions - Cash competitions add-on
+--------------------------------------------------------------
+
+CHANGES HISTORY
+---------------
+v1.0.3 - 22 May 2019
+- Ability to create free to join competitions with cash rewards.
+
+v1.0.2 - 28 Feb 2019
+Bug fix: win payments distribution doesn't work.
+
+v1.0.1 - 22 Oct 2018
+- Bug fix: it's not possible to join a free competition.
+
+v1.0.0 - 16 Oct 2018
+- Initial release.

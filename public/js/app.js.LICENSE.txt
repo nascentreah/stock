@@ -1,0 +1,28 @@
+/*!
+ * Pusher JavaScript Library v7.0.0
+ * https://pusher.com/
+ *
+ * Copyright 2020, Pusher
+ * Released under the MIT licence.
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! @preserve
+ * numeral.js
+ * version : 2.0.6
+ * author : Adam Draper
+ * license : MIT
+ * http://adamwdraper.github.com/Numeral-js/
+ */
+
+/*! https://mths.be/utf8js v2.1.2 by @mathias */
+
+//! moment.js
+
+//! moment.js locale configuration

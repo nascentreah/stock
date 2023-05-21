@@ -1,0 +1,8 @@
+{
+    "/js/manifest.js": "/js/manifest.js",
+    "/js/app.js": "/js/app.js",
+    "/js/cookie.js": "/js/cookie.js",
+    "/css/app.css": "/css/app.css",
+    "/vendor/vendor.js": "/vendor/vendor.js",
+    "/vendor/izitoast/iziToast.min.css": "/vendor/izitoast/iziToast.min.css"
+}
